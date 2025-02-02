@@ -62,12 +62,7 @@ for turn, _, speaker in diarization.itertracks(yield_label=True):
 ```
 
 ### Example Output
-```
-
-![image](https://github.com/user-attachments/assets/27f84d7a-2f87-4ac5-a178-8d48be0456a3)
-
-
-```
+![image](https://github.com/user-attachments/assets/42d8e806-7d5d-4358-a891-96b4d4be74c1)
 
 
 ## Contributing
